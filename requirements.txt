@@ -1,0 +1,6 @@
+numpy==1.23.3
+pandas==1.4.4
+matplotlib==3.5.3
+seaborn==0.11.2
+plotly==5.10.0
+fredapi==0.5.1
