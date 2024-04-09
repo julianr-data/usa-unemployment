@@ -3,6 +3,8 @@
 
 A small project for data exploration and visualization using the Federal Reserve Economic Data (FRED) API, focusing on the COVID-19 pandemic's impact on unemployment and participation rates in the USA.
 
+![USA Unemployment Chart](charts/1-whole-usa.png)
+
 ## Concepts and technologies employed
 
 - Python:
