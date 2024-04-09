@@ -3,7 +3,7 @@
 
 A small project for data exploration and visualization using the Federal Reserve Economic Data (FRED) API, focusing on the COVID-19 pandemic's impact on unemployment and participation rates in the USA.
 
-![USA Unemployment Chart](charts/1-whole-usa.png)
+![USA Unemployment Chart](charts-export/cropped-readme/gif.gif)
 
 ## Concepts and technologies employed
 
@@ -15,6 +15,8 @@ A small project for data exploration and visualization using the Federal Reserve
   - Plotly
 - OOP
 - FRED API
+
+![USA Unemployment Chart](charts-export/4-variation.png)
 
 ## Installation
 
